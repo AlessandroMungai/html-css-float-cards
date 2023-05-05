@@ -5,3 +5,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* GENERAL */
+
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+
+.pink-test {
+    color: #E43271;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+/* MAIN */
+
+h1, p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
